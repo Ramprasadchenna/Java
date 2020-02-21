@@ -1,5 +1,5 @@
-//package elite;
-//import sop.*;
+package elite;
+import sop.*;
 class Hello1 {
 
 	public  static void main(String[] args) {

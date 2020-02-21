@@ -1,4 +1,4 @@
-//package elite;
+package elite;
 
 public class Elite1 {
 

@@ -1,4 +1,4 @@
-//package sop;
+package sop;
 public class Ss {
 
 	public static void op(int a,int b) {
